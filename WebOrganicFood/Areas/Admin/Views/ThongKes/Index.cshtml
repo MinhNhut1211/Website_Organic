@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WebOrganicFood.Models.ThongKe>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Trang Thống Kê</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Tên Khách Hàng
+        </th>
+        <th>
+            Số Điện Thoại
+        </th>
+        <th>
+            Tổng Tiền
+        </th>
+        <th>
+            Số Lượng Đơn Hàng
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tennguoidung)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dienthoai)
+        </td>
+        <td>
+            @String.Format("{0:0,0}", item.Tongtien) VNĐ
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Soluong)
+        </td>
+    </tr>
+}
+
+</table>

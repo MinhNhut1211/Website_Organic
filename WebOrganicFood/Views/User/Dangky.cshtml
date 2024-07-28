@@ -1,0 +1,108 @@
+﻿@model WebOrganicFood.Models.NguoiDung
+@{
+    ViewBag.Title = "Dangky";
+    Layout = null;
+    var useReg = Session["useReg"] as WebOrganicFood.Models.NguoiDung;
+}
+<link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+
+<h3>@ViewBag.RegOk</h3>
+
+@{
+    if (ViewBag.isReg == true)
+    {
+        <button class="btn-primary"> <a style="color:white" href="/User/Dangnhap"> Đăng nhập</a> </button>
+    }
+}
+@using (Html.BeginForm("Dangky", "User", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <section class="h-100">
+        <div class="container h-100">
+            <div class="row justify-content-sm-center h-100">
+                <div class="col-xxl-4 col-xl-5 col-lg-5 col-md-7 col-sm-9">
+                    <div class="text-center my-5">
+                        <img src="~/HinhAnh/logo.jpg" alt="logo" width="100">
+                    </div>
+                    <div class="card shadow-lg">
+                        <div class="card-body p-5">
+                            <h1 class="fs-4 card-title fw-bold mb-4">Đăng Ký</h1>
+                            <form method="POST" class="needs-validation" novalidate="" autocomplete="off">
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="nam">Họ Tên</label>
+                                    @Html.EditorFor(model => model.HoTen, new { htmlAttributes = new { @class = "form-control ", @id = "hoten" } })
+                                    @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Ho Ten is invalid
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="sex">Giới Tính</label>
+                                    @Html.EditorFor(model => model.GioiTinh, new { htmlAttributes = new { @class = "form-control ", @id = "sex" } })
+                                    @Html.ValidationMessageFor(model => model.GioiTinh, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="date">Ngày Sinh</label>
+                                    @Html.EditorFor(model => model.NgaySinh, new { htmlAttributes = new { @class = "form-control ", @id = "date" } })
+                                    @Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="address">Địa Chỉ</label>
+                                    @Html.EditorFor(model => model.DiaChi, new { htmlAttributes = new { @class = "form-control ", @id = "date" } })
+                                    @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="phone">Số điện thoại</label>
+                                    @Html.EditorFor(model => model.SoDienThoai, new { htmlAttributes = new { @class = "form-control ", @id = "phone" } })
+                                    @Html.ValidationMessageFor(model => model.SoDienThoai, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="email">Email</label>
+                                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control ", @id = "email" } })
+                                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="mb-2 text-muted" for="password">Mật Khẩu</label>
+                                    @Html.EditorFor(model => model.MatKhau, new { htmlAttributes = new { @class = "form-control ", @id = "password", @type = "password" } })
+                                    @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                                    <div class="invalid-feedback">
+                                        Password is required
+                                    </div>
+                                </div>
+
+                                <div class="d-flex align-items-center">
+                                    
+                                    <a href="/User/Dangnhap">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <input type="submit" value="Đăng Ký" class="btn btn-default" style="background-color: #4CAF50; color: white;" />
+                                    </a>
+
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+}

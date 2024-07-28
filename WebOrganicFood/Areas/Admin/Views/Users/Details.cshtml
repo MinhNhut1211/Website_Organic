@@ -1,0 +1,91 @@
+﻿@model WebOrganicFood.Models.NguoiDung
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Chi Tiết</h2>
+
+<div>
+    <h4>Người Dùng</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Người Dùng
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.MaNguoiDung, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Tên Quyền
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.PhanQuyen.TenQuyen, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Họ Tên
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.HoTen, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Ngày Sinh
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.NgaySinh, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Số Điện Thoại
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.SoDienThoai, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Giới Tính
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.GioiTinh, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Địa Chỉ
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.DiaChi, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly"} })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </dd>
+
+        <dt>
+            Mật Khẩu
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.MatKhau, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly", @type = "password" } })
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Lưu", "Edit", new { id = Model.MaNguoiDung }) |
+    @Html.ActionLink("Quay Lại", "Index")
+</p>

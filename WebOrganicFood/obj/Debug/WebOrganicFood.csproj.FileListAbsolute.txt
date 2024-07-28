@@ -1,0 +1,1611 @@
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+D:\DACN\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+E:\Website-OrganicFood-main\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+C:\Users\phatl\OneDrive\Desktop\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\Thư mục mới (2)\DACN\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+D:\CV\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+C:\Users\Nhựt\OneDrive\Máy tính\DACN\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrgan.96F408F3.Up2Date
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+C:\Users\tuanp\OneDrive\Máy tính\DoAnChuyenNganh\WebsiteBanTraiCay\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.pdb
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll.config
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\WebOrganicFood.pdb
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\EntityFramework.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\MessagePack.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Web.Infrastructure.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\PagedList.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Buffers.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.ComponentModel.Annotations.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Memory.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\EntityFramework.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\EntityFramework.SqlServer.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\MessagePack.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\MessagePack.Annotations.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Bcl.HashCode.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.pdb
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Data.SqlClient.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Options.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Extensions.Primitives.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Identity.Client.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Logging.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.IdentityModel.Tokens.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.pdb
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.NET.StringTools.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Threading.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.VisualStudio.Validation.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Microsoft.Win32.Registry.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Nerdbank.Streams.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\Newtonsoft.Json.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\PagedList.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\PagedList.Mvc.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\StreamJsonRpc.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Buffers.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Collections.Immutable.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Configuration.ConfigurationManager.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Diagnostics.DiagnosticSource.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.IO.Pipelines.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Memory.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Net.Http.WinHttpHandler.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Numerics.Vectors.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.AccessControl.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.Permissions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Security.Principal.Windows.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Dataflow.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Threading.Tasks.Extensions.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Helpers.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Mvc.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.Razor.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Deployment.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\System.Web.WebPages.Razor.xml
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\cs\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\de\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\es\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\fr\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\it\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ja\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ko\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pl\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\pt-BR\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\ru\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\tr\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hans\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\bin\zh-Hant\StreamJsonRpc.resources.dll
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.AssemblyReference.cache
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CoreCompileInputs.cache
+D:\HocKi2023-2024\Test\WebsiteSTHIBACHHOS\WebOrganicFood\WebOrganicFood\obj\Debug\WebOrganicFood.csproj.CopyComplete

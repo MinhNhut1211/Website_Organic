@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebOrganicFood.Models.SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên Loại
+        </th>
+        <th>
+            Tên Sản Phẩm
+        </th>
+        <th>
+            Hình Ảnh
+        </th>
+        <th>
+            Giá Tiền
+        </th>
+        <th>
+            Mô Tả
+        </th>
+        <th>
+            Số Lượng
+        </th>
+        <th>
+            Loại
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Loai.TenLoai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenSanPham)
+        </td>
+        <td>
+            <img style="width: 50px; height: 50px" src="~/HinhAnh/@item.HinhAnh" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GiaTien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MoTa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Loai.TenLoai)
+        </td>
+
+
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id = item.MaSanPham }) |
+            @Html.ActionLink("Xem", "Details", new { id = item.MaSanPham }) |
+            @Html.ActionLink("Xóa", "Delete", new { id = item.MaSanPham })
+        </td>
+    </tr>
+}
+
+</table>

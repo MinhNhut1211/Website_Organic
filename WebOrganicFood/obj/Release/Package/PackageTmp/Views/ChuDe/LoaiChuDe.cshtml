@@ -1,0 +1,41 @@
+﻿
+@*@{
+    ViewBag.Title = "LoaiChuDe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}*@
+@using WebOrganicFood.Models
+@model IEnumerable<SanPham>
+<!-- Css Styles -->
+<link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/elegant-icons.css" type="text/css">
+<link rel="stylesheet" href="~/css/nice-select.css" type="text/css">
+<link rel="stylesheet" href="~/css/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/style.css" type="text/css">
+<div class="row featured__filter" id="MixItUp4DE008" style="">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat" style="">
+                <div class="featured__item">
+                    <div class="featured__item__pic set-bg" data-setbg="@Url.Content("~/HinhAnh/" + item.HinhAnh)" style="background-image: url(&quot;img/featured/feature-1.jpg&quot;);">
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="@Url.Action("ThemGioHang")"><i class="fa fa-heart"></i></a></li>
+                            <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text">
+                        <h6><a href="@Url.Action("xemChiTiet", new { @masp = item.MaSanPham })">@item.TenSanPham</a></h6>
+                        <h5>@item.GiaTien</h5>
+                    </div>
+
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebOrganicFood.Models.ChiTietDonHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Mã Hóa Đơn
+        </th>
+        <th>
+            Tên Sản Phẩm
+        </th>
+        <th>
+            Số Lượng
+        </th>
+        <th>
+            Thành Tiền
+        </th>
+        <th>
+            Phương Thức Thanh Toán
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaDonHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanPham.TenSanPham)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhuongThucThanhToan)
+            </td>
+
+            <td>
+
+                @Html.ActionLink("Xóa", "Delete", new { id = item.MaDonHang })
+            </td>
+        </tr>
+    }
+
+</table>
+
+

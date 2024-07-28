@@ -1,0 +1,265 @@
+﻿
+@{
+    ViewBag.Title = "ThanhToanDonHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using WebOrganicFood.Models;
+@model WebOrganicFood.Models.DonHang
+<h2>Trang thanh toán</h2>
+<link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/elegant-icons.css" type="text/css">
+<link rel="stylesheet" href="~/css/nice-select.css" type="text/css">
+<link rel="stylesheet" href="~/css/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css">
+<link rel="stylesheet" href="~/css/style.css" type="text/css">
+@using (Html.BeginForm("DatHang", "GioHang", new { @class = "" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.MaDonHang)
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Họ Tên Khách Nhận</b></div>
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.NguoiDung.HoTen, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.NguoiDung.HoTen, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Ngày đặt</b></div>
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.NgayDat, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.NgayDat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Tổng tiền thanh toán  </b></div>
+
+        <div class="col-md-9">
+            <h3 class="text-danger"> @String.Format("{0:0,0}", @ViewBag.tongtien) VNĐ </h3>
+        </div>
+    </div>
+
+    <!-- Choose Location -->
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Địa chỉ nhận hàng</b></div>
+        <div class="row row-cols-2 col-md-9">
+            <div class="col">
+                <label>Tỉnh Thành</label>
+                @Html.DropDownList("MaTP", null, htmlAttributes: new { @class = "form-control" })
+            </div>
+            <div class="col">
+                <label>Quận, Huyện</label>
+                @Html.DropDownList("QH_HCM", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("QH_HN", null, htmlAttributes: new { @class = "form-control" })
+                <script>
+                    let selectedCity = document.getElementById("MaTP");
+                    document.getElementById("QH_HCM").style.display = "block";
+                    document.getElementById("QH_HN").style.display = "none";
+                    selectedCity.addEventListener("change", () => {
+                        if (selectedCity.value === "Hà Nội") {
+                            document.getElementById("QH_HCM").style.display = "none";
+                            document.getElementById("QH_HN").style.display = "block";
+                        }
+                        else {
+                            document.getElementById("QH_HCM").style.display = "block";
+                            document.getElementById("QH_HN").style.display = "none";
+                        }
+                    });
+                </script>
+            </div>
+            <div class="col col-12 mt-3">
+                <label>Phường, Xã, Thị Trấn</label>
+                @Html.DropDownList("HCM_Quan1", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan3", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan4", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan5", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan6", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan7", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan8", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan10", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan11", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_Quan12", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanBinhTan", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanBinhThanh", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanGoVap", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanPhuNhuan", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanTanBinh", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanTanPhu", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanBinhChanh", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanCanGio", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanCuChi", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanHocMon", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanNhaBe", null, htmlAttributes: new { @class = "form-control" })
+                @Html.DropDownList("HCM_QuanThuDuc", null, htmlAttributes: new { @class = "form-control" })
+
+
+                <script>
+                    let selectedPhuong = null;
+                    let selectedQuan = null;
+                    if (document.getElementById("QH_HN").style.display === "block") {
+                        selectedQuan = document.getElementById("QH_HCM")
+                    }
+                    else {
+                        selectedQuan = document.getElementById("QH_HCM")
+                    }
+
+                    const hideAll = () => {
+                        document.getElementById("HCM_Quan1").style.display = "none";
+                        document.getElementById("HCM_Quan3").style.display = "none";
+                        document.getElementById("HCM_Quan4").style.display = "none";
+                        document.getElementById("HCM_Quan5").style.display = "none";
+                        document.getElementById("HCM_Quan6").style.display = "none";
+                        document.getElementById("HCM_Quan7").style.display = "none";
+                        document.getElementById("HCM_Quan8").style.display = "none";
+                        document.getElementById("HCM_Quan10").style.display = "none";
+                        document.getElementById("HCM_Quan11").style.display = "none";
+                        document.getElementById("HCM_Quan12").style.display = "none";
+                        document.getElementById("HCM_QuanBinhTan").style.display = "none";
+                        document.getElementById("HCM_QuanBinhThanh").style.display = "none";
+                        document.getElementById("HCM_QuanGoVap").style.display = "none";
+                        document.getElementById("HCM_QuanPhuNhuan").style.display = "none";
+                        document.getElementById("HCM_QuanTanBinh").style.display = "none";
+                        document.getElementById("HCM_QuanTanPhu").style.display = "none";
+                        document.getElementById("HCM_QuanBinhChanh").style.display = "none";
+                        document.getElementById("HCM_QuanCanGio").style.display = "none";
+                        document.getElementById("HCM_QuanCuChi").style.display = "none";
+                        document.getElementById("HCM_QuanHocMon").style.display = "none";
+                        document.getElementById("HCM_QuanNhaBe").style.display = "none";
+                        document.getElementById("HCM_QuanThuDuc").style.display = "none";
+                    } 
+                    hideAll();
+                    document.getElementById("HCM_Quan1").style.display = "block"; 
+                    selectedPhuong = document.getElementById("HCM_Quan1");
+                    selectedQuan.addEventListener("change", () => {
+                        switch (selectedQuan.value) {
+                            case "Quận 1":
+                                hideAll();
+                                document.getElementById("HCM_Quan1").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_Quan1");
+                                break;
+                            case "Quận 3": hideAll(); document.getElementById("HCM_Quan3").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_Quan3");
+                                break;
+                            case "Quận 4": hideAll(); document.getElementById("HCM_Quan4").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_Quan4");
+                                break;
+                            case "Quận 5": hideAll(); document.getElementById("HCM_Quan5").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_Quan5");
+                                break;
+                            case "Quận 6": hideAll(); document.getElementById("HCM_Quan6").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan6");
+                                break;
+                            case "Quận 7": hideAll(); document.getElementById("HCM_Quan7").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_Quan7");
+                                break;
+                            case "Quận 8": hideAll(); document.getElementById("HCM_Quan8").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan8");
+                                break;
+                            case "Quận 10": hideAll(); document.getElementById("HCM_Quan10").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan10");
+                                break;
+                            case "Quận 11": hideAll(); document.getElementById("HCM_Quan11").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan11");
+                                break;
+                            case "Quận 12": hideAll(); document.getElementById("HCM_Quan12").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan12");
+                                break;
+                            case "Bình Thạnh": hideAll(); document.getElementById("HCM_QuanBinhThanh").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanBinhThanh");
+                                break;
+                            case "Thủ Đức": hideAll(); document.getElementById("HCM_QuanThuDuc").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanThuDuc");
+                                break;
+                            case "Gò Vấp": hideAll(); document.getElementById("HCM_QuanGoVap").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanGoVap");
+                                break;
+                            case "Phú Nhuận": hideAll(); document.getElementById("HCM_QuanPhuNhuan").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_QuanPhuNhuan");
+                                break;
+                            case "Tân Bình": hideAll(); document.getElementById("HCM_QuanTanBinh").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanTanBinh");
+                                break;
+                            case "Tân Phú": hideAll(); document.getElementById("HCM_QuanTanPhu").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanTanPhu");
+                                break;
+                            case "Bình Tân": hideAll(); document.getElementById("HCM_QuanBinhTan").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanBinhTan");
+                                break;
+                            case "Huyện Nhà Bè": hideAll(); document.getElementById("HCM_QuanNhaBe").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanNhaBe");
+                                break;
+                            case "Huyện Hóc Môn": hideAll(); document.getElementById("HCM_QuanHocMon").style.display = "block";
+                                selectedPhuong = document.getElementById("HCM_QuanHocMon");
+                                break;
+                            case "Huyện Củ Chi": hideAll(); document.getElementById("HCM_QuanCuChi").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanCuChi");
+                                break;
+                            case "Huyện Cần Giờ": hideAll(); document.getElementById("HCM_QuanCanGio").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanCanGio");
+                                break;
+                            case "Huyện Bình Chánh": hideAll(); document.getElementById("HCM_QuanBinhChanh").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_QuanBinhChanh");
+                                break;
+                            default:
+                                hideAll(); document.getElementById("HCM_Quan1").style.display = "block"; 
+                                selectedPhuong = document.getElementById("HCM_Quan1");
+                            break;
+                        }
+                    });
+                </script>
+            </div>
+            <div class="col col-12 mt-3">
+                <label>Số nhà, tên đường</label>
+                @Html.EditorFor(model => model.DiaChiNhanHang, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DiaChiNhanHang, "Vui lòng nhập số nhà, tên đường", new { @class = "text-danger" })
+                <script>
+                    document.getElementById("DiaChiNhanHang").addEventListener("change", () => {
+                        if (document.getElementById("DiaChiNhanHang").value.length > 0) {
+                            document.getElementById("DiaChiNhanHang").value += ", " + selectedPhuong.value + ", " + selectedQuan.value + ", " + selectedCity.value
+                        }
+                    })
+                </script>
+            </div>
+        </div>
+
+    </div>
+    <!-- Choose Location -->
+
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Phương thức thanh toán  </b></div>
+
+        <div class="col-md-9">
+            @Html.DropDownList("MaTT", null, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Ghi chú  </b></div>
+
+        <div class="col-md-9 text-danger">
+            -  Đối với thanh toán bằng tiền mặt. Sản phẩm giao đến quý khách, quý khách kiểm tra sản phẩm sau đó thanh toán cho nhân viên ship.
+            <br />
+            - Đối với thanh toán chuyển khoản:
+            Quý khách chuyển khoản vào tài khoản : 0937187003. Chủ tài khoản: Trần Minh Nhựt. Ngân hàng Momo
+            <br />
+            - Nội dung chuyển khoản điền theo mẫu: Họ tên , số điện thoại, Thanh toán mua hàng Organic Food.
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Đặt hàng ngay" class="btn btn-primary" />
+        </div>
+    </div>
+</div>
+}
+

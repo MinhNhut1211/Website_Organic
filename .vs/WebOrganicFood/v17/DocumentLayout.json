@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\homescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\homes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\homes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\homes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\homes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|c:\\users\\tuanp\\onedrive\\m\u00E1y t\u00EDnh\\doanchuyennganh\\websitebantraicay\\weborganicfood\\weborganicfood\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\sanphams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\sanpham\\sanphampartialfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\sanpham\\sanphampartialfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\sanpham\\xemchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\chudes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\chudes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\sanpham\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\sanpham\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\sanpham\\timkiemsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\sanpham\\timkiemsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\chudes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\chudes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\homes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\homes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\views\\donhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\views\\donhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\weborganicfood\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D40B8D-5DBF-4A84-B770-109E876F2FD7}|WebOrganicFood\\WebOrganicFood.csproj|solutionrelative:weborganicfood\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKesController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\ThongKesController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\ThongKesController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\ThongKesController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\ThongKesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T03:00:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:53:12.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:51:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:42:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Details.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:42:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:38:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDonHangsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:38:34.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:37:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Edit.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:28:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:27:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:27:59.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwEUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:22:04.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:07:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T02:07:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T05:58:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomesController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Controllers\\HomesController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowHwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:46:51.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\User\\Dangky.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Dangky.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\User\\Dangky.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:26:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\User\\Dangnhap.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\User\\Dangnhap.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\User\\Dangnhap.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:26:04.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Create.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:24:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:10:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:11:21.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TimKiemSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\TimKiemSP.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\SanPham\\TimKiemSP.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\TimKiemSP.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\SanPham\\TimKiemSP.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:07:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\SanPham\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\SanPham\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAwwMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:53:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:49:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "xemChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\xemChiTiet.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\SanPham\\xemChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\xemChiTiet.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\SanPham\\xemChiTiet.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAGoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:49:33.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Details.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\ChuDes\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:39:58.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SanPhamPartialFull.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\SanPhamPartialFull.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\SanPham\\SanPhamPartialFull.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\SanPham\\SanPhamPartialFull.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\SanPham\\SanPhamPartialFull.cshtml",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAIwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:33:26.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:24:59.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:24:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:12:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Create.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\Homes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:11:30.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ThongKes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Areas\\Admin\\Views\\ThongKes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Areas\\Admin\\Views\\ThongKes\\Index.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Areas\\Admin\\Views\\ThongKes\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T05:09:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "WebOrganicFood\\Controllers\\DonHangController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:03:47.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\DonHang\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebOrganicFood\\Views\\DonHang\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuanp\\OneDrive\\M\u00E1y t\u00EDnh\\DoAnChuyenNganh\\WebsiteBanTraiCay\\WebOrganicFood\\WebOrganicFood\\Views\\DonHang\\Details.cshtml",
+              "RelativeToolTip": "WebOrganicFood\\Views\\DonHang\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T04:59:29.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

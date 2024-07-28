@@ -1,0 +1,51 @@
+﻿@model WebOrganicFood.Models.NhaCungCap
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Chi Tiết</h2>
+
+<div>
+    <h4>Nhà Cung Cấp</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Nhà Cung Cấp
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaNCC)
+        </dd>
+
+        <dt>
+            Tên Nhà Cung Cấp
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNCC)
+        </dd>
+
+        <dt>
+            Địa Chỉ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+           Số Điện Thoại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SDT)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Lưu", "Edit", new {  id = Model.MaNCC }) |
+    @Html.ActionLink("Quay Lại", "Index")
+</p>

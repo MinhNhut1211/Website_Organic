@@ -1,0 +1,103 @@
+﻿@model WebOrganicFood.Models.DonHang
+@using WebOrganicFood.Models;
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Chi Tiết</h2>
+@{ IEnumerable<ChiTietDonHang> lstChiTietDH = (IEnumerable<ChiTietDonHang>)ViewBag.ListChiTietDH; }
+<div>
+    <h4>Đơn Hàng</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Họ Tên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NguoiDung.HoTen)
+        </dd>
+        <dt>
+            Ngày Đặt
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayDat)
+        </dd>
+
+        <dt>
+            Thanh Toán
+        </dt>
+
+        <dd>
+            @{
+                if (Model.ThanhToan == 1)
+                {
+                    <div style="color:red">Thanh toán tiền mặt</div>
+                }
+                else if (Model.ThanhToan == 2)
+                {
+                    <div style="color:slateblue">Thanh toán chuyển khoản</div>
+
+                }
+            }
+        </dd>
+
+        <dt>
+            Xác Nhận Đơn Hàng
+        </dt>
+
+        <dd>
+                    <div style="color:slateblue">Đã xác nhận</div>
+
+        </dd>
+
+        <dt>
+            Địa Chỉ Nhận Hàng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChiNhanHang)
+        </dd>
+        <dt>
+            Số Điện Thoại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NguoiDung.SoDienThoai)
+        </dd>
+
+
+
+    </dl>
+</div>
+<table class="table">
+    <tr>
+        <td>Mã Đơn Hàng</td>
+        <td><b>Sản phẩm</b></td>
+        <td><b>Hình ảnh</b></td>
+        <td><b>Số lượng đặt</b></td>
+        <td><b>Đơn giá đặt</b></td>
+    </tr>
+
+    @foreach (var item in lstChiTietDH)
+    {
+        <tr>
+            <td>@item.MaDonHang</td>
+            <td>@item.SanPham.TenSanPham</td>
+            <td><img width="120" height="120" src="@Url.Content("~/HinhAnh/" + @item.SanPham.HinhAnh)" /></td>
+            <td>@item.SoLuong</td>
+            <td>@String.Format("{0:0,0}", @item.DonGia)</td>
+        </tr>
+    }
+
+</table>
+<div class="text-right">
+    <h5>Tổng thành tiền:  @String.Format("{0:0,0}", Html.DisplayFor(model => model.TongTien))</h5>
+</div>
+
+<p>
+    @Html.ActionLink("Xác Nhận Đơn Hàng", "Xacnhan", new { id = Model.MaDonHang }) |
+    @Html.ActionLink("Quay Lại", "Index")
+</p>

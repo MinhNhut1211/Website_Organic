@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebOrganicFood.Models.NhaCungCap>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Nhà Cung Cấp</h2>
+
+<p>
+    @Html.ActionLink("Thêm Mới", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Mã Nhà Cung Cấp
+        </th>
+        <th>
+            Tên Nhà Cung Cấp
+        </th>
+        <th>
+            Địa Chỉ
+        </th>
+        <th>
+            Số Điện Thoại
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaNCC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenNCC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiaChi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SDT)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new {  id=item.MaNCC }) |
+            @Html.ActionLink("Chi Tiết", "Details", new { id= item.MaNCC }) |
+            @Html.ActionLink("Xóa", "Delete", new { id = item.MaNCC })
+        </td>
+    </tr>
+}
+
+</table>
